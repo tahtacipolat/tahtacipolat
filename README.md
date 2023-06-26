@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Polat Tahtacı</h1>
 <h3 align="center">I am a software developer in Istanbul</h3>
 
+- 📫 How to reach me **tahtacipolat@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/polattahtaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polattahtaci" height="30" width="40" /></a>
